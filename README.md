@@ -5,4 +5,5 @@
 - 📫 How to reach me: bshantherishenoy777@gmail.com
 - ⚡ Fun fact: importing random all time.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bshantherishenoy&layout=compact)
 
